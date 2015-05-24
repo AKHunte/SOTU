@@ -3,6 +3,9 @@
 from operator import itemgetter
 import sys
 import numpy as np
+
+#Written By: Aisha Hunte
+#Date : February 20, 2015
     	
 current_count = 0
 word = None

@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+
+#Written by: Aisha Hunte
+#Date: February 20, 2015
+
 import sys
 import os
 import string
